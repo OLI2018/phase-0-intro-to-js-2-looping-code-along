@@ -17,7 +17,7 @@ function wrapGifts(gifts) {
 
 wrapGifts(gifts); 
 
-// ================================= 
+// =========================================== 
 
 function writeCards(names, event) {
     for (let i = 0; i < names.length; i++) {
@@ -29,7 +29,7 @@ function writeCards(names, event) {
 const result = writeCards(["Ada", "Brendan", "Ali"], "birthday"); 
 
 
-// =================================
+// ===========================================
 
 
 function countDown (number) {
